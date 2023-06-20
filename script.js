@@ -28,16 +28,16 @@ const music_list = [
         music : 'musica/musicasTrabalho_y2mate.com - 2Pac All Eyez On Me.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/iron-maiden-sanctuary-single-cover.jpg',
+        name : 'Sanctuary',
+        artist : 'Iron Maiden',
+        music : 'musica/musicasTrabalho_y2mate.com - Iron Maiden Sanctuary.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/luz-1152x0-c-default.jpg',
+        name : 'Luz',
+        artist : 'Djavan',
+        music : 'musica/musicasTrabalho_y2mate.com - Djavan Luz Áudio Oficial.mp3'
     },
     {
         img : 'images/ratherbe.jpg',
