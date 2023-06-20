@@ -22,10 +22,10 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : 'images/2Pac_-_All_Eyez_on_Me.jpg',
+        name : 'All Eyez on Me',
+        artist : '2Pac',
+        music : 'musica/musicasTrabalho_y2mate.com - 2Pac All Eyez On Me.mp3'
     },
     {
         img : 'images/fallingdown.jpg',
