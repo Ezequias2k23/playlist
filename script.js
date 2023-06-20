@@ -40,10 +40,10 @@ const music_list = [
         music : 'musica/musicasTrabalho_y2mate.com - Djavan Luz Áudio Oficial.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/junfrei.jpeg',
+        name : 'Oliver Tree & Robin Schulz',
+        artist : 'Miss You',
+        music : 'musica/X2Download.app - Oliver Tree & Robin Schulz - Miss You [Official Audio] (128 kbps).mp3'
     }
 ];
 
@@ -59,7 +59,7 @@ function loadTrack(track_index){
     track_art.style.backgroundImage = "url(" + music_list[track_index].img + ")";
     track_name.textContent = music_list[track_index].name;
     track_artist.textContent = music_list[track_index].artist;
-    now_playing.textContent = "Playing music " + (track_index + 1) + " of " + music_list.length;
+    now_playing.textContent = "Tocando faixa " + (track_index + 1) + " de " + music_list.length;
 
     updateTimer = setInterval(setUpdate, 1000);
 
