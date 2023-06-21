@@ -56,7 +56,31 @@ const music_list = [
         name : 'Take On Me',
         artist : 'a-ha',
         music : 'musica/X2Download.app - a-ha - Take On Me (Official Video) [Remastered in 4K] (128 kbps).mp3'
-    }
+    },
+     {
+        img : 'images/fall-out-boy.jpeg',
+        name : 'The Phoenix',
+        artist : 'Fall Out Boy',
+        music : 'musica/the-phoenix.mp3'
+    },
+    {
+        img : 'images/cortesy.jpeg',
+        name : 'Courtesy Call',
+        artist : 'Thousand Foot',
+        music : 'musica/onlymp3.to - Thousand Foot Krutch Courtesy Call Official Audio -ocpDEOXABWg-192k-1687354072.mp3'
+    },
+    {
+        img : 'images/tombstone.png',
+        name : 'Its Been So Long',
+        artist : 'The Living Tombstone',
+        music : 'musica/onlymp3.to - Five Nights at Freddy s 2 Song - The Living Tombstone FNAF2 -gk-aCL6eyGc-192k-1687354142.mp3'
+    },
+     {
+        img : 'images/índice.jpeg',
+        name : 'Clint Eastwood',
+        artist : 'Gorillaz',
+        music : 'musica/onlymp3.to - Gorillaz - Clint Eastwood Official Video -1V_xRb0x9aw-192k-1687354119.mp3'
+    },
 ];
 
 loadTrack(track_index);
