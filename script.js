@@ -50,6 +50,12 @@ const music_list = [
         name : 'Hades|Alone',
         artist : 'Enygma',
         music : 'musica/hades-alone-saint-seiya-the-lost-canvas-enygma.mp3'
+    },
+    {
+        img : 'images/image.png',
+        name : 'Take On Me',
+        artist : 'a-ha',
+        music : 'musica/X2Download.app - a-ha - Take On Me (Official Video) [Remastered in 4K] (128 kbps).mp3'
     }
 ];
 
