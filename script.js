@@ -41,8 +41,8 @@ const music_list = [
     },
     {
         img : 'images/junfrei.jpeg',
-        name : 'Oliver Tree & Robin Schulz',
-        artist : 'Miss You',
+        name : 'Miss You',
+        artist : 'Oliver Tree & Robin Schulz',
         music : 'musica/X2Download.app - Oliver Tree & Robin Schulz - Miss You [Official Audio] (128 kbps).mp3'
     }
 ];
