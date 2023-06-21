@@ -80,7 +80,7 @@ const music_list = [
         name : 'Clint Eastwood',
         artist : 'Gorillaz',
         music : 'musica/onlymp3.to - Gorillaz - Clint Eastwood Official Video -1V_xRb0x9aw-192k-1687354119.mp3'
-    },
+    }
 ];
 
 loadTrack(track_index);
