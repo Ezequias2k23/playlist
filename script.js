@@ -44,6 +44,12 @@ const music_list = [
         name : 'Miss You',
         artist : 'Oliver Tree & Robin Schulz',
         music : 'musica/X2Download.app - Oliver Tree & Robin Schulz - Miss You [Official Audio] (128 kbps).mp3'
+    },
+    {
+        img : 'images/hades.jpeg',
+        name : 'Hades|Alone',
+        artist : 'Enygma',
+        music : 'musica/hades-alone-saint-seiya-the-lost-canvas-enygma.mp3'
     }
 ];
 
