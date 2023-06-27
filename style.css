@@ -206,4 +206,6 @@ body {
 
 .imagensLista, .dadosdm {
 display: inline-block;
+width: 50%;
+box-sizing: border-box;
 }
