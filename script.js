@@ -210,15 +210,4 @@ function setUpdate(){
         total_duration.textContent = durationMinutes + ":" + durationSeconds;
     }
 }
-
-musicas.forEach(function(musica) {
- var li = document.createElement('li');
- li.textContent = musica;
-
- li.addEventListener('click', function() {
- console.log('Música selecionada', musica);
- });
-listaMusicas.appendChild(li);
-});
-    
                     
