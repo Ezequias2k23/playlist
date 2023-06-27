@@ -14,8 +14,7 @@ let total_duration = document.querySelector('.total-duration');
 let wave = document.getElementById('wave');
 let randomIcon = document.querySelector('.fa-random');
 let curr_track = document.createElement('audio');
-let listaMusicas = document.getElementById('listaMusicas');
-let musicas = ['musicasTrabalho_y2mate.com - 2Pac All Eyez On Me.mp3'];
+let imagensLista = document.querySelector('imagensLista');
 
 let track_index = 0;
 let isPlaying = false;
