@@ -207,4 +207,9 @@ body {
 .imagensLista, .dadosdm {
 display: inline-block;
 box-sizing: border-box;
+width: 50px;
+heigth:50px;
+padding: 5px;
+border: 1px solid black;
+margin: 5px;
 }
