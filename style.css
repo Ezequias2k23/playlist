@@ -205,9 +205,7 @@ body {
     }
 
 .imagensLista, .dadosdm {
-display: flex;
-align-items: center;
-justify-content: center;
+display:inline-block;
 width: 100%;
 heigth:50px;
 padding: 5px;
